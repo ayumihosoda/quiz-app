@@ -1,0 +1,31 @@
+body {
+	margin: 0 auto; 
+	background: url("../images/movie.png");
+	background-size: 100%;
+	font-family: 'Abril Fatface', cursive;
+	color: #e52b50;
+}
+
+.title {
+	font-size: 60px;
+	margin: 30px 0;
+}
+
+.form-group {
+	font-size: 18px;
+	margin: 15px 0;
+	letter-spacing: 0.5px;
+}
+
+h1 {
+	text-align: center;
+
+}
+
+.correct {
+	color: #BBCE00;
+}
+
+.incorrect {
+	color: #00ACD7;
+}
